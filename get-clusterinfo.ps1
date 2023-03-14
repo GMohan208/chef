@@ -1,0 +1,1 @@
+﻿Get-ClusterGroup -Name 'SQL' | select Cluster, OwnerNode
